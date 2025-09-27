@@ -1,0 +1,8 @@
+C:\Users\LAN CENTER LEONPERU\source\repos\TemperaturaS\TemperaturaS\bin\Debug\TemperaturaS.exe.config
+C:\Users\LAN CENTER LEONPERU\source\repos\TemperaturaS\TemperaturaS\bin\Debug\TemperaturaS.exe
+C:\Users\LAN CENTER LEONPERU\source\repos\TemperaturaS\TemperaturaS\bin\Debug\TemperaturaS.pdb
+C:\Users\LAN CENTER LEONPERU\source\repos\TemperaturaS\TemperaturaS\obj\Debug\TemperaturaS.csproj.AssemblyReference.cache
+C:\Users\LAN CENTER LEONPERU\source\repos\TemperaturaS\TemperaturaS\obj\Debug\TemperaturaS.csproj.CoreCompileInputs.cache
+C:\Users\LAN CENTER LEONPERU\source\repos\TemperaturaS\TemperaturaS\obj\Debug\TemperaturaS.exe
+C:\Users\LAN CENTER LEONPERU\source\repos\TemperaturaS\TemperaturaS\obj\Debug\TemperaturaS.pdb
+C:\Users\LAN CENTER LEONPERU\source\repos\TemperaturaS\TemperaturaS\obj\Debug\TemperaturaS.exe.config
