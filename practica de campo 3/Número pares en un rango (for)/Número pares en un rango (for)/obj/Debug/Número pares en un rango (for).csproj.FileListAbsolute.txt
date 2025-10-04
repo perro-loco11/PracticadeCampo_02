@@ -1,0 +1,7 @@
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Número pares en un rango (for)\Número pares en un rango (for)\bin\Debug\Número pares en un rango (for).exe.config
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Número pares en un rango (for)\Número pares en un rango (for)\bin\Debug\Número pares en un rango (for).exe
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Número pares en un rango (for)\Número pares en un rango (for)\bin\Debug\Número pares en un rango (for).pdb
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Número pares en un rango (for)\Número pares en un rango (for)\obj\Debug\Número pares en un rango (for).csproj.AssemblyReference.cache
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Número pares en un rango (for)\Número pares en un rango (for)\obj\Debug\Número pares en un rango (for).csproj.CoreCompileInputs.cache
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Número pares en un rango (for)\Número pares en un rango (for)\obj\Debug\Número pares en un rango (for).exe
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Número pares en un rango (for)\Número pares en un rango (for)\obj\Debug\Número pares en un rango (for).pdb

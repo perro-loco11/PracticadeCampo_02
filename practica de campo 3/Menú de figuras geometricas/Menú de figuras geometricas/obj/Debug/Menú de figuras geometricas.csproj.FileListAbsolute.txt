@@ -1,0 +1,7 @@
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Menú de figuras geometricas\Menú de figuras geometricas\bin\Debug\Menú de figuras geometricas.exe.config
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Menú de figuras geometricas\Menú de figuras geometricas\bin\Debug\Menú de figuras geometricas.exe
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Menú de figuras geometricas\Menú de figuras geometricas\bin\Debug\Menú de figuras geometricas.pdb
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Menú de figuras geometricas\Menú de figuras geometricas\obj\Debug\Menú de figuras geometricas.csproj.AssemblyReference.cache
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Menú de figuras geometricas\Menú de figuras geometricas\obj\Debug\Menú de figuras geometricas.csproj.CoreCompileInputs.cache
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Menú de figuras geometricas\Menú de figuras geometricas\obj\Debug\Menú de figuras geometricas.exe
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Menú de figuras geometricas\Menú de figuras geometricas\obj\Debug\Menú de figuras geometricas.pdb

@@ -1,0 +1,7 @@
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Evaluacion de salario\Evaluacion de salario\bin\Debug\Evaluacion de salario.exe.config
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Evaluacion de salario\Evaluacion de salario\bin\Debug\Evaluacion de salario.exe
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Evaluacion de salario\Evaluacion de salario\bin\Debug\Evaluacion de salario.pdb
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Evaluacion de salario\Evaluacion de salario\obj\Debug\Evaluacion de salario.csproj.AssemblyReference.cache
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Evaluacion de salario\Evaluacion de salario\obj\Debug\Evaluacion de salario.csproj.CoreCompileInputs.cache
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Evaluacion de salario\Evaluacion de salario\obj\Debug\Evaluacion de salario.exe
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Evaluacion de salario\Evaluacion de salario\obj\Debug\Evaluacion de salario.pdb

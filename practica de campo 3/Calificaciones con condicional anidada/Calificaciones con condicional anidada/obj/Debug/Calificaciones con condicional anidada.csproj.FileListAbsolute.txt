@@ -1,0 +1,7 @@
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Calificaciones con condicional anidada\Calificaciones con condicional anidada\bin\Debug\Calificaciones con condicional anidada.exe.config
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Calificaciones con condicional anidada\Calificaciones con condicional anidada\bin\Debug\Calificaciones con condicional anidada.exe
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Calificaciones con condicional anidada\Calificaciones con condicional anidada\bin\Debug\Calificaciones con condicional anidada.pdb
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Calificaciones con condicional anidada\Calificaciones con condicional anidada\obj\Debug\Calificaciones con condicional anidada.csproj.AssemblyReference.cache
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Calificaciones con condicional anidada\Calificaciones con condicional anidada\obj\Debug\Calificaciones con condicional anidada.csproj.CoreCompileInputs.cache
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Calificaciones con condicional anidada\Calificaciones con condicional anidada\obj\Debug\Calificaciones con condicional anidada.exe
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Calificaciones con condicional anidada\Calificaciones con condicional anidada\obj\Debug\Calificaciones con condicional anidada.pdb

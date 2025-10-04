@@ -1,0 +1,7 @@
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Suma de factoriales\Suma de factoriales\bin\Debug\Suma de factoriales.exe.config
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Suma de factoriales\Suma de factoriales\bin\Debug\Suma de factoriales.exe
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Suma de factoriales\Suma de factoriales\bin\Debug\Suma de factoriales.pdb
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Suma de factoriales\Suma de factoriales\obj\Debug\Suma de factoriales.csproj.AssemblyReference.cache
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Suma de factoriales\Suma de factoriales\obj\Debug\Suma de factoriales.csproj.CoreCompileInputs.cache
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Suma de factoriales\Suma de factoriales\obj\Debug\Suma de factoriales.exe
+D:\TRABAJO GRUPAL\Nueva carpeta\PracticadeCampo_02\practica de campo 3\Suma de factoriales\Suma de factoriales\obj\Debug\Suma de factoriales.pdb
