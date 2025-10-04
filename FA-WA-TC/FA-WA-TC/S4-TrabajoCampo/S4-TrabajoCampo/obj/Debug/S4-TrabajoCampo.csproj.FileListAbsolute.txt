@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\obj\Debug\S4-TrabajoCampo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\obj\Debug\S4-TrabajoCampo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\bin\Debug\S4-TrabajoCampo.exe.config
+C:\Users\Usuario\Desktop\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\bin\Debug\S4-TrabajoCampo.exe
+C:\Users\Usuario\Desktop\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\bin\Debug\S4-TrabajoCampo.pdb
+C:\Users\Usuario\Desktop\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\obj\Debug\S4-TrabajoCampo.exe
+C:\Users\Usuario\Desktop\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\obj\Debug\S4-TrabajoCampo.pdb
+C:\Users\ALUMNO\Downloads\practica d ecampo 4\PracticadeCampo_02\FA-WA-TC\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\bin\Debug\S4-TrabajoCampo.exe.config
+C:\Users\ALUMNO\Downloads\practica d ecampo 4\PracticadeCampo_02\FA-WA-TC\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\bin\Debug\S4-TrabajoCampo.exe
+C:\Users\ALUMNO\Downloads\practica d ecampo 4\PracticadeCampo_02\FA-WA-TC\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\bin\Debug\S4-TrabajoCampo.pdb
+C:\Users\ALUMNO\Downloads\practica d ecampo 4\PracticadeCampo_02\FA-WA-TC\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\obj\Debug\S4-TrabajoCampo.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Downloads\practica d ecampo 4\PracticadeCampo_02\FA-WA-TC\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\obj\Debug\S4-TrabajoCampo.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Downloads\practica d ecampo 4\PracticadeCampo_02\FA-WA-TC\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\obj\Debug\S4-TrabajoCampo.exe
+C:\Users\ALUMNO\Downloads\practica d ecampo 4\PracticadeCampo_02\FA-WA-TC\FA-WA-TC\S4-TrabajoCampo\S4-TrabajoCampo\obj\Debug\S4-TrabajoCampo.pdb
